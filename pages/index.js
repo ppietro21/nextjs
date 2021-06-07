@@ -22,16 +22,6 @@ Si quieres conocer las distintas opciones que hay en la moda de trajes para homb
           </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
           <a href="https://trajesdenovio.mx/" className={styles.card}>
             <h2>Trajes de novio México</h2>
             <p>Los mejores trajes de novio en México</p>
@@ -62,6 +52,14 @@ Si quieres conocer las distintas opciones que hay en la moda de trajes para homb
           <a href="https://theteabox.es" className={styles.card}>
             <h2>Té e infusiones en España</h2>
             <p>Infusiones para adelgazar, energia, relajantes y mucho más</p>
+          </a>
+          <a href="https://deitxandco.com" className={styles.card}>
+            <h2>Trajes y ropa para hombre</h2>
+            <p>La mejor ropa para hombre en México</p>
+          </a>
+          <a href="https://rebozo.mx" className={styles.card}>
+            <h2>Rebozo Mexicano</h2>
+            <p>Toda la información sobre el rebozo mexicano</p>
           </a>
 
         </div>
