@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Theteabox.es <a href="https://theteabox.es">Next.js!</a>
+          Test h1 with link Theteabox.es <a href="https://theteabox.es">Link</a>
         </h1>
 
         <p className={styles.description}>
@@ -28,6 +28,16 @@ export default function Home() {
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
+          </a>
+
+          <a href="https://trajesdenovio.mx/" className={styles.card}>
+            <h3>Trajes de novio México</h3>
+            <p>Los mejores trajes de novio en México</p>
+          </a>
+
+          <a href="https://kalbelia.com" className={styles.card}>
+            <h3>Artesanias Mexicanas</h3>
+            <p>Las mejores artesanias de México</p>
           </a>
 
           <a
