@@ -18,7 +18,7 @@ export default function Home() {
 Es muy importante cuando elegimos trajes de novio que identifiques tu personalidad para saber que estilo te gustaría plasmar en tu outfit de boda.
 La elección de los complementos dependerá del estilo de traje que elijas, entre los accesorios encontrarás la corbata, la pajarita, el boutonniere, los calcetines, el cinturón, el reloj, y las mancuernillas.
 En cuanto tengas todos tus accesorios, llévalos contigo a la prueba de vestuario para asegurarte de que cada pieza combine a la perfección. Trata de prepararlo con tiempo por si tienes que hacer algún cambio.
-Si quieres conocer las distintas opciones que hay en la moda de trajes para hombre de casamiento, más adelante encontrarás información detallada de cada tipo para ayudarte a tener una idea más clara de que tipo de traje te gustaría llevar para lucir impecable en tu gran día. Si quieres ir ahora a la guía click <AQUI>
+Si quieres conocer las distintas opciones que hay en la moda de trajes para hombre de casamiento, más adelante encontrarás información detallada de cada tipo para ayudarte a tener una idea más clara de que tipo de traje te gustaría llevar para lucir impecable en tu gran día. Si quieres ir ahora a la guía click
           </p>
 
         <div className={styles.grid}>
