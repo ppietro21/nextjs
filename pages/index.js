@@ -26,18 +26,40 @@ export default function Home() {
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
+            <h2>Learn &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
           <a href="https://trajesdenovio.mx/" className={styles.card}>
-            <h3>Trajes de novio México</h3>
+            <h2>Trajes de novio México</h3>
             <p>Los mejores trajes de novio en México</p>
           </a>
 
           <a href="https://kalbelia.com" className={styles.card}>
-            <h3>Artesanias Mexicanas</h3>
+            <h2>Artesanias Mexicanas</h3>
             <p>Las mejores artesanias de México</p>
+          </a>
+
+          <a href="https://vermut.com.es" className={styles.card}>
+            <h2>Vermut España</h3>
+            <p>Los mejores Vermut de España</p>
+          </a>
+          <a href="https://depinatas.com" className={styles.card}>
+            <h2>Piñatas México</h3>
+            <p>Compro o arma tus piñatas</p>
+          </a>
+          <a href="https://artehuichol.com.mx" className={styles.card}>
+            <h3>Lo mejor del arte Huichol;</h3>
+            <p>Aprende todo sobre este arte</p>
+          </a>
+
+          <a href="https://pietropinto.uy" className={styles.card}>
+            <h2>Regularización de obras</h2>
+            <p>Estudio de arquitectura en Uruguay</p>
+          </a>
+          <a href="https://theteabox.es" className={styles.card}>
+            <h2>Té e infusiones en España</h2>
+            <p>Infusiones para adelgazar, energia, relajantes y mucho más</p>
           </a>
 
           <a
