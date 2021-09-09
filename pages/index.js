@@ -65,6 +65,15 @@ Si quieres conocer las distintas opciones que hay en la moda de trajes para homb
             <h2>Cirugia plastica mexico</h2>
             <p>Toda la información sobre cirugias en México</p>
           </a>
+<p className={styles.description}>
+LIMPIEZA FACIAL PROFUNDA
+CLEANSER FACIAL
+Nuestra cara es nuestra tarjeta de presentación al mundo y a su vez es la zona más expuesta de nuestra piel, por lo que requiere de una buena limpieza profunda para proteger nuestro rostro de los factores externos que tratan de dañarla constantemente: la contaminación ambiental, la suciedad y los rayos del sol.
+
+La espuma limpiadora facial de Pirxots consigue limpiar los poros de la piel, combatir el acné y los puntos negros, calmar las rojeces y desinflamar los granitos. Gracias al Aloe Vera conseguirás tener una piel limpia y a su vez hidratada, evitando que se reseque la piel después de una buena limpieza.
+
+Además, te ayudará a eliminar cualquier resto de maquillaje y limpiar el rostro de la contaminación ambiental que existe, sobre todo, en las grandes ciudades. Y lo mejor, disfrutarás de una espuma cremosa, ligera y muy agradable que ofrecerá frescor a la piel sin causar tirantez
+</p>
           <a href="http://pirxotscosmetics.com" className={styles.card}>
             <h2>Pirxots cosmetics</h2>
             <p>Las mejores cremas faciales en España</p>
