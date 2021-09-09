@@ -61,6 +61,14 @@ Si quieres conocer las distintas opciones que hay en la moda de trajes para homb
             <h2>Rebozo Mexicano</h2>
             <p>Toda la información sobre el rebozo mexicano</p>
           </a>
+          <a href="https://micirugiaplastica.com.mx" className={styles.card}>
+            <h2>Cirugia plastica mexico</h2>
+            <p>Toda la información sobre cirugias en México</p>
+          </a>
+          <a href="http://pirxotscosmetics.com" className={styles.card}>
+            <h2>Pirxots cosmetics</h2>
+            <p>Las mejores cremas faciales en España</p>
+          </a>
 
         </div>
       </main>
