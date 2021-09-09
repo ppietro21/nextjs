@@ -73,6 +73,18 @@ Si quieres conocer las distintas opciones que hay en la moda de trajes para homb
             <h2>Outfits.tips</h2>
             <p>Los mejores tips de moda y los más originales</p>
           </a>
+          <a href="https://outfits.tips/tienda/" className={styles.card}>
+            <h2>Outfits.tips tienda</h2>
+            <p>Los mejores tips de moda y los más originales</p>
+          </a>
+          <a href="https://outfits.tips/tienda-hombre/" className={styles.card}>
+            <h2>Outfits.tips tienda hombre</h2>
+            <p>Los mejores tips de moda y los más originales</p>
+          </a>
+          <a href="https://outfits.tips/e-girl-outfits/" className={styles.card}>
+            <h2>Outfits.tips estilo e girl</h2>
+            <p>Los mejores tips de moda y los más originales</p>
+          </a>
 
         </div>
       </main>
