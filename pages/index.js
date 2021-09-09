@@ -71,7 +71,7 @@ Si quieres conocer las distintas opciones que hay en la moda de trajes para homb
           </a>
           <a href="http://outfits.tips" className={styles.card}>
             <h2>Outfits.tips</h2>
-            <p>Los mejores tips de moda</p>
+            <p>Los mejores tips de moda y los más originales</p>
           </a>
 
         </div>
