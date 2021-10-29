@@ -94,7 +94,10 @@ Además, te ayudará a eliminar cualquier resto de maquillaje y limpiar el rostr
             <h2>Outfits.tips estilo e girl</h2>
             <p>Los mejores tips de moda y los más originales y aqui aqui</p>
           </a>
-
+          <a href="https://declaracionusomarca.com/impi/" className={styles.card}>
+            <h2>Declaración de uso de marca IMPI</h2>
+            <p>tienes dudas sobre como realizar esta declaración</p>
+          </a>
         </div>
       </main>
 
