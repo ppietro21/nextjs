@@ -98,6 +98,10 @@ Además, te ayudará a eliminar cualquier resto de maquillaje y limpiar el rostr
             <h2>Declaración de uso de marca IMPI</h2>
             <p>tienes dudas sobre como realizar esta declaración</p>
           </a>
+          <a href="https://cintasbarcelonaonline.com" className={styles.card}>
+            <h2>Cintas Barcelona</h2>
+            <p>La mejor tienda de cintas de barcelona online</p>
+          </a>
         </div>
       </main>
 
